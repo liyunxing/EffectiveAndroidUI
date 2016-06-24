@@ -1,6 +1,8 @@
 Effective Android UI [![Build Status](https://travis-ci.org/pedrovgs/EffectiveAndroidUI.svg?branch=master)](https://travis-ci.org/pedrovgs/EffectiveAndroidUI) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-EffectiveAndroidUI-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1347)
 ====================
 
+本应用是mvp的架构，学习mvp可看一下
+
 Sample project created to reinforce some of the main concepts described in the tech talk "Effective Android UI".
 
 In this repository you are going to find some interesting samples like:
